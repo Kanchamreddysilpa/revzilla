@@ -1,0 +1,487 @@
+.main-con
+{
+    width: 90%;
+    height: 4075px;
+    background-color: #f1f1f1;
+    margin-left: 4.3rem;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2) , 0 6px 4px rgba(0, 0, 0, 0.9);
+}
+
+.gvery
+{
+    width: 100%;
+    height: 70px;
+    color: rgb(4, 4, 101);
+    display: flex;
+    justify-content: space-evenly;
+}
+.gvery button
+{
+    padding: 15px; 
+    border-radius: 100px;
+    background-color: blue;
+    border: none;
+    color: white;
+}
+
+.main-con .con1
+{
+    width: 90%;
+    height: 500px;
+    margin: 60px;
+    display : flex
+
+}
+
+.con1 .sub-con
+{
+    width: 100%;
+    height: 500px;
+}
+.sub-con h1
+{
+    font-size: 40px;
+    font-weight: 400px;
+    margin-left: 50px;
+    color: rgb(4, 4, 101);
+}
+.sub-con-img
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sub-con-img img
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+
+.sub-con h4
+{
+    margin-left: 50px;
+    color: rgb(2, 2, 35);
+}
+
+.sub-con .two-but
+{
+    width: 100;
+    height: 50px;
+    margin-left: 50px;
+}
+.two-but .but2
+{
+   margin: 10px;
+   margin-left: 40px;
+   border-radius: 100px;
+   padding: 7px;
+   
+}
+.two-but .but1
+{
+   border-radius: 100px;
+   padding: 7px;
+   border: none;
+   background: orange;
+   color: white;
+}
+
+.sub-con .rate
+{
+    width: 100%;
+    height: 30%;
+    
+    display: flex;
+    margin-left: 50px;
+}
+.rate .rating
+{
+    font-weight:bolder;
+    margin-top: 100px;
+}
+
+.rate .views
+{
+    font-weight: bolder;
+    margin-top: 100px;
+    padding-left: 50px;
+}
+
+
+
+
+
+
+
+.main-con .con2
+{
+    width: 90%;
+    height: 600px;
+    margin: 60px;
+    margin-top: 10px;
+    display : flex
+
+}
+
+.con2 .delivery
+{
+    width: 100%;
+    height: 600px;
+}
+
+.delivery img
+{
+    width: 100%;
+    height: 85%;
+    border-radius: 30px;
+}
+
+.con2 .service
+{
+    width: 100%;
+    height: 600px;
+}
+
+.service p
+{
+    font-size: 30px;
+    font-weight: 400px;
+    margin-left: 50px;
+    font-weight: bold;
+    color: rgb(4, 4, 101);
+}
+
+.service h5
+{
+    margin-left: 50px;
+    padding-top: -10px;
+}
+
+.service .grid-con
+{
+    width: 90%;
+    height: 60%;
+    margin-left: 50px;
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+}
+
+.grid-con .grid-item
+{
+    width: 100%;
+    height: 100%;
+    display: grid;
+}
+
+
+
+
+
+
+
+
+.main-con .con3
+{
+    width: 90%;
+    height: 600px;
+    margin: 60px;
+    margin-top: 10px;
+    display : flex;
+    background-color: rgb(225, 239, 248);
+    border-radius: 10px;
+}
+
+.con3 .phone-dis
+{
+    width: 50%;
+    height: 500px;
+    margin: 40px;
+}
+
+.phone-dis p
+{
+    font-size: 30px;
+    margin-left: 50px;
+    font-weight: bold;
+    color: rgb(4, 4, 101);
+}
+.phone-dis h2
+{
+    margin-left: 50px;
+    padding-top: -10px;
+}
+.phone-dis h6
+{
+    margin-left: 50px;
+    margin-right: 30px;
+    margin-top: 1px;
+}
+
+.phone-dis button
+{
+    margin-left: 50px;
+    margin-right: 30px;
+    margin-top: 1px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border-radius: 50px;
+    border: none;
+}
+
+.con3 .phone
+{
+    width: 50%;
+    height: 500px;
+    margin: 40px;
+
+}
+
+.phone img
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+.main-con .con4
+{
+    width: 100;
+    height: 120px;
+    margin: 70px;
+    margin-right: 100px;
+}
+
+.con4 ul
+{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.con4 ul,button
+{
+    margin: 15px;
+    padding-top: -20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.con4 h6
+{
+    margin: 20px;
+    color: rgb(4, 4, 101);
+    margin-top: 13px;
+    align-content: center;
+}
+
+
+
+
+
+
+
+.main-con .con5
+{
+    width: 90%;
+    height: 600px;
+    margin: 60px;
+    margin-top: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    display : grid
+}
+
+.con5 .griditems
+{
+    width: 85%;
+    height: 85%;
+    margin: 10px;
+    background-color: rgb(239, 246, 252);
+    border-radius: 10px;
+}
+.griditems img
+{
+    height: 65%;
+    width: 90%;
+    margin: 10px;
+    border-radius: 10px;
+}
+.griditems h4
+{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
+.main-con .con6
+{
+    width: 90%;
+    height: 400px;
+    margin: 60px;
+    margin-top: 200px;
+}
+
+.con6 p
+{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px;
+    color: rgb(4, 4, 101); 
+    text-align: center;
+}
+
+.con6 .grids3
+{
+    width: 100%;
+    height: 200px;
+    display : grid;
+    margin-left: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.grids3 .griditems
+{
+    width: 90%;
+    height: 200px;
+    background-color: rgb(234, 240, 242);
+    border-radius: 10px;
+}
+.p1 img
+{
+    width: 50px;
+    height: 50px;
+}
+.griditems .p1
+{
+    display: flex;
+}
+.griditems .p11
+{
+    width: 93%;
+    height: 90px;
+    background-color: white;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+.main-con .con7
+{
+    width: 90%;
+    height: 400px;
+    margin-left: 60px; 
+    display: flex;
+    margin-top: -100px;
+}
+
+
+.con7 .get-app
+{
+    width: 100%;
+    height: 400px;
+}
+
+.con7 .home-img
+{
+    width: 100%;
+    height: 400px;
+}
+
+.home-img img
+{
+    width: 80%;
+    height: 95%;
+    border-radius: 30px;
+    margin-left: 60px;
+}
+
+
+.con7 h1
+{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px;
+    color: rgb(4, 4, 101); 
+}
+.con7 p
+{
+    margin: 20px;
+}
+ 
+.con7 .b1 
+{
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
+
+.con7 .b2 
+{
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+footer
+{
+    width: 100%;
+    height: 300px;
+    background-color:  rgb(216, 233, 247); 
+    display: flex;
+}
+footer .sub-div
+{
+    width: 45%;
+    height: 300px;
+}
+
+.sub-div h1
+{
+    margin-top: 50px; 
+    margin-left: 50px;
+}
+.sub-div p
+{
+    margin-left: 50px;
+}
+
+footer .sub-div1
+{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+
+.sub-div1 ul
+{
+    margin: 30px;
+    margin-top: 80px;
+}
